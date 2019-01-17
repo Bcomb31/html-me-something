@@ -1,0 +1,50 @@
+body {
+	width: 100%;
+	max-width: 1300px;
+	margin: 0 auto;
+	background-color: #965;
+	font-size: 50.5%;
+}
+header,
+main,
+footer {
+	background-color: #ddd;
+	font-size: 1.6em;
+}
+header {
+	padding: 1.25em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 3.5em;
+}
+
+main article {
+	padding-left: 25px;padding-right: 15px;border-left-width: 0px;border-left-style: solid;border-bottom-width: 0px;border-bottom-style: solid;border-right-style: solid;border-top-width: 0px;border-top-style: solid;padding-top: 0px;border-right-width: 0px;">
+}
+
+p {
+   font-size: 0.995em;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+img {
+	width: 40%;
+	max-width: 32%;
+}
